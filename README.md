@@ -1,4 +1,4 @@
-# ENSF 461 - Applied Operating Systems
+# ENSF 461 - Applied Operating Systems - Fall 2023
 Operating systems serve as the bridge between hardware and software, managing computer resources and enabling various applications to run efficiently. This course provides an in-depth understanding of the fundamental principles that govern how operating systems work. You'll explore the design and implementation of key OS components, gain insights into efficient resource management, and learn about security elements that protect systems from threats.
 
 # Purpose of this Repository
