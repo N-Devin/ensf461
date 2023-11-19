@@ -51,7 +51,6 @@ int *SEQ(int *ints, int size)
 // Return the result of Hillis/Steele, but with each pass executed sequentially
 int *HSS(int *ints, int size)
 {
-    return NULL;
 }
 
 // Return the result of Hillis/Steele, parallelized using pthread

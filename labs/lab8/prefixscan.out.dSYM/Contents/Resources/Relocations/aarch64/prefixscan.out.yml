@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     prefixscan.out
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _parse_ints, symObjAddr: 0x0, symBinAddr: 0x100003B10, symSize: 0xB4 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _parse_ints, symObjAddr: 0x0, symBinAddr: 0x100003B10, symSize: 0xB4 }
+  - { offsetInCU: 0xA2, offset: 0xA2, size: 0x8, addend: 0x0, symName: _write_ints, symObjAddr: 0xB4, symBinAddr: 0x100003BC4, symSize: 0x80 }
+  - { offsetInCU: 0xFE, offset: 0xFE, size: 0x8, addend: 0x0, symName: _SEQ, symObjAddr: 0x134, symBinAddr: 0x100003C44, symSize: 0xA4 }
+  - { offsetInCU: 0x15E, offset: 0x15E, size: 0x8, addend: 0x0, symName: _HSS, symObjAddr: 0x1D8, symBinAddr: 0x100003CE8, symSize: 0x18 }
+  - { offsetInCU: 0x194, offset: 0x194, size: 0x8, addend: 0x0, symName: _HSP, symObjAddr: 0x1F0, symBinAddr: 0x100003D00, symSize: 0x1C }
+  - { offsetInCU: 0x1D8, offset: 0x1D8, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x20C, symBinAddr: 0x100003D1C, symSize: 0x1B4 }
+...
